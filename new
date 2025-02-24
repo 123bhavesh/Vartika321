@@ -1,0 +1,3 @@
+a =2;
+B =3;
+Printf("The sum of a + b = C")
